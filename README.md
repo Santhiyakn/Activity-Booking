@@ -38,7 +38,7 @@ Installation
 
 Clone the repository
 
-git clone https://github.com/your-username/activity-booking-api.git
+git clone https://github.com/Santhiyakn/Activity-Booking
 cd activity-booking-api
 
 Install dependencies
